@@ -13,10 +13,10 @@ import java.util.ArrayList;
 /**
  * Created 2021-04-27
  *
- * @author
+ * @author me :)
  */
 public class Main extends Canvas implements Runnable{
-    private final int width = 400; //Dimensions for playing area
+    private final int width = 600; //Dimensions for playing area
     private final int height = 600;
 
     private boolean isRunning;
